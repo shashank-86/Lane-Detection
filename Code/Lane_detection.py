@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import numpy as np  
 import cv2
+from google.colab.patches import cv2_imshow #required only for google colab
 import matplotlib.pyplot as plt
 import os
 
